@@ -1,11 +1,12 @@
 <h2>hey there! &#128587;</h2>
 
-<p>I'm <a href="rsds.ch" targer="_blank">Roland Strasser</a>, a independent project manager with somehow ok dev-skills(?).</p>
+<p>I'm <a href="rsds.ch" targer="_blank">Roland Strasser</a>, a independent project manager with several years of development experience.</p>
 
 <p>Currently I'm working on:</p>
 <ul>
 <li>different smaller projects for smaller companies as manager and dev.</li>
 <li>For <a href="careoline.life" target="_blank">careoline.life</a> a coaching plattform as techlead.</li>
+<li>For several NFT collections as dev of the smart contracts and collection creator</li>
 </ul>
 </br>
 <p>Generally I'm really interested in crypto, authentication and security topics. Despite several privacy concerns, I decided to give GitHub a try and see where 
