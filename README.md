@@ -5,7 +5,7 @@
 <p>Currently I'm working on:</p>
 <ul>
 <li>different smaller projects for smaller companies as manager and dev.</li>
-<li>For <a href="careoline.life" target="_blank">careoline.life</a> a coaching plattform as techlead.</li>
+<li>For <a href="kryptohr.ch" target="_blank">Kryptohr</a> services and courses about crypto.</li>
 <li>For several NFT collections as dev of the smart contracts and collection creator</li>
 </ul>
 </br>
