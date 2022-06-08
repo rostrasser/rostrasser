@@ -6,7 +6,7 @@
 <ul>
 <li>different smaller projects for smaller companies as manager and dev.</li>
 <li>For <a href="kryptohr.ch" target="_blank">Kryptohr</a> services and courses about crypto.</li>
-<li>For several NFT collections as dev of the smart contracts and collection creator</li>
+<li>For several NFT collections and other Crypto Project as dev of the smart contracts and react pages</li>
 </ul>
 </br>
 <p>Generally I'm really interested in crypto, authentication and security topics. Despite several privacy concerns, I decided to give GitHub a try and see where 
